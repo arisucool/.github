@@ -1,6 +1,7 @@
+
 # arisu.cool 🍓
 
-ありすPと皆さまによるOSSプロジェクト💻
+ありすPと皆さまによるOSSプロジェクト💻　〜 to you for me 〜
 
 * 総合アカウント - [@arisucool](https://twitter.com/arisucool) (Twitter)
     * お知らせや開発の様子などをつぶやきます。
